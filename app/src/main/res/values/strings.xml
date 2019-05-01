@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Movie Onesight</string>
+
+    <string name="base_url">https://api.themoviedb.org/3/</string>
+    <string name="web_url">https://www.themoviedb.org/filme/</string>
+
+    <string name="generic_error">Oops! Problemas com a conexão,\nPor favor, tente novamente mais tarde...</string>
+    <string name="not_find_error">Desculpe! Nenhum filme encontrado,\nTente Novamente...</string>
+    <string name="genres_error">"Nenhum gênero informado"</string>
+
+    <string name="more_info_button">Mais informações</string>
+
+    <string name="genres_header">Gêneros</string>
+    <string name="overview_header">Avaliação</string>
+    <string name="duration_header">Duração</string>
+    <string name="language_header">Idioma</string>
+    <string name="date_header">Data</string>
+
+    <plurals name="duration">
+        <item quantity="one">%d minuto</item>
+        <item quantity="other">%1$d minutos</item>
+    </plurals>
+</resources>
